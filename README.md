@@ -1,6 +1,6 @@
 # HKUST COMP3111 Software Engineering (Spring 2018)
 
-Team name: 26 Trumpkin
+Team name: Trumpkin
 	
 Team members: 
 
